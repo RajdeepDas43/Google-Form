@@ -24,6 +24,7 @@ This is a Windows desktop application built with Visual Basic. The application a
    ```sh
    git clone https://github.com/RajdeepDas43/Google-Form.git
    cd Google-Form
+   cd Form1
    ```
 
 2. **Open the Project in Visual Studio:**
