@@ -22,8 +22,8 @@ This is a Windows desktop application built with Visual Basic. The application a
 
 1. **Clone the Repository:**
    ```sh
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/RajdeepDas43/Google-Form.git
+   cd Google-Form
    ```
 
 2. **Open the Project in Visual Studio:**
